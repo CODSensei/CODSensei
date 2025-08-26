@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on becoming a backend engineer. I want to be a engineer who can come up with a solution to given problem regardless of tech-stack be it Go, TypeScript, Java or anything else
+I'm currently working on becoming a backend engineer. I want to be a engineer who can come up with a solution to given problem regardless of tech-stack be it Go, TypeScript, Pyhton or anything else
 
 
 ## 🌐 Socials:
