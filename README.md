@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishna Agarwal</h1>
 <h3 align="center">A passionate engineer intereseted in backend development but aspiring to be a engineer who can come up with a solution to given problem.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codsensei&label=Profile%20views&color=0e75b6&style=flat" alt="codsensei" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codsensei" alt="codsensei" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/codsensei_2345" target="blank"><img src="https://img.shields.io/twitter/follow/codsensei_2345?logo=twitter&style=for-the-badge" alt="codsensei_2345" /></a> </p>
-
 - 🌱 I’m currently learning **MERN, exporing Hono and elyisia along with BunJS and golang**
 
 - 💬 Ask me about **ReactJS, React-Native, Sql, DSA**
